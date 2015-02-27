@@ -1,0 +1,27 @@
+{
+  "name": "OMS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.11.2",
+    "bower": "^1.3.12",
+    "body-parser": "^1.11.0",
+    "cassandra-driver": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashdeeph709/OrderManagement.git"
+  },
+  "author": "yashdeep hinge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashdeeph709/OrderManagement/issues"
+  },
+  "homepage": "https://github.com/yashdeeph709/OrderManagement"
+}
