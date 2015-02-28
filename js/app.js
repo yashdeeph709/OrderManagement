@@ -11,5 +11,9 @@ app.config(function($routeProvider){
         templateUrl:'partials/customers.html'
     }).when('/products',{
         templateUrl:'partials/products.html'
+    }).when('/createCustomer',{
+        templateUrl:'partials/createCustomer.html'
+    }).when('/createProduct',{
+        templateUrl:'partials/createProduct.html'
     });
 });
