@@ -3,8 +3,6 @@ var app=angular.module('OrderManagement',['ngRoute']);
 app.config(function($routeProvider){
     $routeProvider.when('/',{
         templateUrl:'partials/main.html'
-    }).when('/giftcards',{
-        templateUrl:'partials/giftcards.html'
     }).when('/orders',{
         templateUrl:'partials/orders.html'
     }).when('/selectProduct',{
@@ -19,5 +17,7 @@ app.config(function($routeProvider){
         templateUrl:'partials/createCustomer.html'
     }).when('/createProduct',{
         templateUrl:'partials/createProduct.html'
+    }).when('/ordereditems',{
+        templateUrl:'partials/ordereditems.html'
     });
 });

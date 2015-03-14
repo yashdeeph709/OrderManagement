@@ -3,11 +3,12 @@
 <head>
 <title>Order Management System</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="css/jasny-bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/nav.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-inverse" role="navigation">
 	<div class="navbar-header">
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 			<span class="sr-only">Toggle navigation</span>
@@ -25,13 +26,12 @@
 </nav>
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-md-3">
-			<ul class="nav nav-list">
+		<div class="col-md-3 nav-side-menu rowlink">
+			<ul>
 				<li><a href="#/">Dashboard</a></li>
 				<li><a href="#/orders">Orders</a></li>
 				<li><a href="#/products">Products</a></li>
 				<li><a href="#/customers">Customers</a></li>
-				<li><a href="#/giftcards">Giftcards</a></li>
 			</ul>
 
 		</div>
@@ -44,6 +44,7 @@
 <script src="js/lib/angular-route.js"></script>
 <script src="js/app.js"></script>
 <script src="js/lib/jquery-1.9.1.js"></script>
+<script src="js/lib/jasny-bootstrap.min.js"></script>
 <script src="js/lib/bootstrap.min.js"></script>
 </body>
-</html>	
+</html>
