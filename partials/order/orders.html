@@ -10,7 +10,7 @@
 					</li>
 				</ul>
 			</nav>
-			<div class="table-responsive">
+			<div class="table-responsive" data-ng-controller="orderlist">
 				<table class="table table-hover">
 					<thead>
 						<tr>
@@ -22,13 +22,14 @@
 						</tr>
 					</thead>
 					<tbody data-link="row" class="rowlink">
-						<tr>
-							<td>1</td>
-         					<td><a href="#/orderdetail">0822IT111086</a></td>
-        					<td>Bajaj Fans</td>
-							<td>12/Dec/2015</td>
-							<td>processing</td>
+						<tr data-ng-repeat="order in orders">
+							<th><a ng-href="#/orderdetail?orderid=order.orderid">{{order.orderid}}</th>
+							<th>{{order.orderid}}</th>
+							<th>{{order.custname}}</th>
+							<th>{{order.date}}</th>
+							<th>{{order.status}}</th>
 						</tr>
+
 					</tbody>
 				</table>
 			</div>

@@ -1,23 +1,25 @@
-var app=angular.module('OrderManagement',['ngRoute']);
+var app=angular.module('OrderManagement',['ngRoute','OrderModule','ProductModule']);
 
 app.config(function($routeProvider){
     $routeProvider.when('/',{
         templateUrl:'partials/main.html'
     }).when('/orders',{
-        templateUrl:'partials/orders.html'
+        templateUrl:'partials/order/orders.html'
+    }).when('/orderdetail',{
+        templateUrl:'partials/order/orderdetail.html'
     }).when('/selectProduct',{
-        templateUrl:'partials/selectProduct.html'
+        templateUrl:'partials/product/selectProduct.html'
     }).when('/createOrder',{
-        templateUrl:'partials/createOrder.html'
+        templateUrl:'partials/order/createOrder.html'
     }).when('/customers',{
-        templateUrl:'partials/customers.html'
+        templateUrl:'partials/customer/customers.html'
     }).when('/products',{
-        templateUrl:'partials/products.html'
+        templateUrl:'partials/product/products.html'
     }).when('/createCustomer',{
-        templateUrl:'partials/createCustomer.html'
+        templateUrl:'partials/customer/createCustomer.html'
     }).when('/createProduct',{
-        templateUrl:'partials/createProduct.html'
+        templateUrl:'partials/product/createProduct.html'
     }).when('/ordereditems',{
-        templateUrl:'partials/ordereditems.html'
+        templateUrl:'partials/order/ordereditems.html'
     });
 });

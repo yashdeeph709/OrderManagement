@@ -1,0 +1,91 @@
+<div data-ng-controller="createOrder">
+<div class="row orderentry"  ng-hide="ordered">
+	<div class="well" data-ng-hide="cid" ng-hide="ordered">
+		<legend>Create Sales Order
+		</legend>
+		<input type="text" class="input-sm" id="" placeholder="Enter Customer Name">
+		<label><strong>Or</strong></label>
+		<a href="#/createCustomer"><button class="btn btn-info">
+			<span class="glyphicon glyphicon-plus"></span>Create Customer</button></a>
+			<button class="btn btn-danger" data-ng-click="setCustId(true)">Choose</button>
+		</a>
+	</div>
+</div>
+<div class="row well orderentry"  ng-hide="ordered" data-ng-controller="findProduct">
+	<div class="heading">
+	<span class="pull-left">
+	<form class="form-inline">
+	<input type="text" class="form-control"  placeholder="Find by Product Name,Product ID or Brand" ng-model="pname">
+	<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+	</button>
+	</form>
+	</span>
+		<ul class="pull-right">
+			<li><button class="btn btn-danger"><span class="glyphicon glyphicon-backward"></span></button>
+		</li>
+		<li><button class="btn btn-danger"><span class="glyphicon glyphicon-chevron-left"></span></button>
+		</li>
+		<li>
+			<select class="input-sm">
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+			</select>
+		</li>
+		<li><button class="btn btn-danger"><span class="glyphicon glyphicon-chevron-right"></span></button>
+		</li>
+		<li><button class="btn btn-danger"><span class="glyphicon glyphicon-forward"></span></button></li>
+		<li><button class="btn btn-info" data-ng-click="setOrdered()">Product Selected</button></li>
+		</ul>
+	</div>
+	<div>
+<table class="table table-bordered table-hover">
+<tr>
+<td>Product ID</td>
+<td>Product Name</td>
+<td>Product Type</td>
+<td>Stock</td>
+<td>Quantity</td>
+<td>Action</td>
+</tr>
+<tr ng-repeat="product in products | filter:pname">
+<td><button class="btn btn-info">{{product.pid}}</button></td>
+<td>{{product.pname}}</td>
+<td>{{product.brand}}</td>
+<td>{{product.price}}</td>
+<td><input type="text" placeholder="quantity"></td>
+<td><button class="btn btn-info"><span class="glyphicon glyphicon-plus"></span></button></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="row well">
+<div class="heading">
+<span>Ordered Items</span>
+</div>
+<table class="table table-hover">
+		<tr>
+			<td>Product ID</td>
+			<td>Product Name</td>
+			<td>Quantity</td>
+			<td>Unit Price</td>
+			<td>Total Price</td>
+			<td>Action</td>
+		</tr>
+		<tr>
+			<td>GD-112</td>
+			<td>Gizmo</td>
+			<td>20</td>
+			<td>300000/-</td>
+			<td>6000000/-</td>
+			<td><button class="btn btn-info"><span class="glyphicon glyphicon-remove"></span></button>
+			<button class="btn btn-info"><span class="glyphicon glyphicon-edit" data-ng-click="editOrder()"></span></button></td>
+		</tr>
+</table>
+<button class="btn btn-info">Finalized order</button>
+</div>
+</div>

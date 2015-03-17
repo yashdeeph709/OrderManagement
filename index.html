@@ -1,50 +1,56 @@
 <!DOCTYPE html>
 <html ng-app="OrderManagement">
-<head>
-<title>Order Management System</title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/jasny-bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/nav.css">
-<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
-<body>
-<nav class="navbar navbar-inverse" role="navigation">
-	<div class="navbar-header">
-		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-			<span class="sr-only">Toggle navigation</span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-		</button>
-		<a class="navbar-brand" href="#">Order Management System</a>
-	</div>
-	<div class="collapse navbar-collapse navbar-ex1-collapse">
-		<ul class="nav navbar-nav navbar-right">
-			<li><a href="#">Welcome Admin</a></li>
-		</ul>
-	</div>
-</nav>
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-3 nav-side-menu rowlink">
-			<ul>
-				<li><a href="#/">Dashboard</a></li>
-				<li><a href="#/orders">Orders</a></li>
-				<li><a href="#/products">Products</a></li>
-				<li><a href="#/customers">Customers</a></li>
-			</ul>
-
+	<head>
+		<title>Order Management System</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/jasny-bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/nav.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Order Management System</a>
+			</div>
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#">Welcome Admin</a></li>
+				</ul>
+			</div>
+		</nav>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-3 nav-side-menu rowlink">
+					<ul>
+						<li><a href="#/">Dashboard</a></li>
+						<li><a href="#/orders">Orders</a></li>
+						<li><a href="#/products">Products</a></li>
+						<li><a href="#/customers">Customers</a></li>
+					</ul>
+				</div>
+				<div class="col-md-9">
+					<div ng-view></div>
+				</div>
+			</div>
 		</div>
-		<div class="col-md-9">
-		<div ng-view></div>
-		</div>			
-	</div>
-</div>
-<script src="js/lib/angular.js"></script>
-<script src="js/lib/angular-route.js"></script>
-<script src="js/app.js"></script>
-<script src="js/lib/jquery-1.9.1.js"></script>
-<script src="js/lib/jasny-bootstrap.min.js"></script>
-<script src="js/lib/bootstrap.min.js"></script>
-</body>
+		<script src="js/lib/angular.js"></script>
+		<script src="js/lib/angular-route.js"></script>
+		<script src="js/lib/jquery-1.9.1.js"></script>
+		<script src="js/lib/jasny-bootstrap.min.js"></script>
+		<script src="js/lib/bootstrap.min.js"></script>
+		<!--app logic-->
+		<script src="js/app.js"></script>
+		<script src="js/order/Order.js"></script>
+		<script src="js/customer/Customer.js"></script>
+		<script src="js/product/Product.js"></script>
+		<script src="js/services/orderService.js"></script>
+		<script src="js/services/productService.js"></script>
+		<script src="js/services/customerService.js"></script>
+	</body>
 </html>
