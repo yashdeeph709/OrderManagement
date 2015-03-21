@@ -1,4 +1,11 @@
 var express = require('express');
 var app = express();
-app.use(express.static('./'));
-app.listen(3000);
+
+app.set('port', (process.env.PORT || 5000));
+app.use('/',express.static('./'));
+app.use('/partials',express.static(__dirname+'./partials'));
+
+app.listen(app.get('port'), function() {
+  console.log("Node app is running at localhost:" + app.get('port'));
+});
+
