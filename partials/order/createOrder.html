@@ -42,7 +42,7 @@
 		</ul>
 	</div>
 	<div>
-<table class="table table-bordered table-hover">
+<table  ng-show="pname" class="table table-bordered table-hover">
 <tr>
 <td>Product ID</td>
 <td>Product Name</td>
@@ -56,14 +56,14 @@
 <td>{{product.pname}}</td>
 <td>{{product.brand}}</td>
 <td>{{product.price}}</td>
-<td><input type="text" placeholder="quantity"></td>
+<td><input type="text" class="form-control input-sm" placeholder="Enter Quantity"></td>
 <td><button class="btn btn-info"><span class="glyphicon glyphicon-plus"></span></button></td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
-<div class="row well">
+<div class="row well" ng-hide="address">
 <div class="heading">
 <span>Ordered Items</span>
 </div>
@@ -86,6 +86,41 @@
 			<button class="btn btn-info"><span class="glyphicon glyphicon-edit" data-ng-click="editOrder()"></span></button></td>
 		</tr>
 </table>
+<button data-ng-click="setAddress()" class="btn btn-info">Enter Address</button>
+</div>
+</div>
+
+<div class="row well">
+<div class="heading">
+<span>Address Details</span>
+</div>
+<br>
+<h4>Delivery Location</h4>
+<form action="" method="POST" class="form-inline" role="form">
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="State">
+	</div>
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="City">
+	</div>
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="Street Address">
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<h4>Shipping Location</h4>
+<form action="" method="POST" class="form-inline" role="form">
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="State">
+	</div>
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="City">
+	</div>
+	<div class="form-group">
+		<input type="email" class="form-control" placeholder="Street Address">
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
 <button class="btn btn-info">Finalized order</button>
 </div>
 </div>

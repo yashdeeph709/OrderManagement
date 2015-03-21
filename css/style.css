@@ -1,6 +1,13 @@
+ul{
+list-style-type: none;
+font-size: 16px;
+}
 .well{
 	background-color: #233233;
 	border:2px solid #2B3E50;
+}
+.panel{
+	border:1px solid #2B3E50;
 }
 .orderentry select{
 	color:black;
