@@ -1,0 +1,1215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"Championship"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"$LOC",
+				"$location	AngularJS"
+			],
+			[
+				"$loc",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$r",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$rou",
+				"$routeParams	AngularJS"
+			],
+			[
+				"glyp",
+				"glyphicon-plus"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"overs",
+				"overstrike"
+			],
+			[
+				"get",
+				"get	express-get"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"bs3-r",
+				"bs3-input:radio	bs3-input-radio"
+			],
+			[
+				"bs3-form",
+				"bs3-form:inline	bs3-form-inline"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:responsive	bs3-navbar-responsive"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bs3-ta",
+				"bs3-table:striped	bs3-table-striped"
+			],
+			[
+				"bs3-",
+				"bs3-image	bs3-image"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"bs3-tab",
+				"bs3-table:bordered	bs3-table-bordered"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"bs3-tabl",
+				"bs3-table:bordered	bs3-table-bordered"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ng-i",
+				"ng-include	AngularJS"
+			],
+			[
+				"bs3-fo",
+				"bs3-form:inline	bs3-form-inline"
+			],
+			[
+				"ser",
+				"service	angular-service"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bs3-for",
+				"bs3-panel:footer	bs3-panel-footer"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"list-item"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"lst",
+				"list-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"pro",
+				"PROJECT"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bs3-i",
+				"bs3-input:search	bs3-input-search"
+			],
+			[
+				"bs3-n",
+				"bs3-navbar:static-top	bs3-navbar-static-top"
+			],
+			[
+				"bs3",
+				"bs3-toolbar	bs3-button-toolbar"
+			],
+			[
+				"bs3-c",
+				"bs3-carousel	bs3-carousel"
+			],
+			[
+				"no",
+				"nop"
+			],
+			[
+				"ov",
+				"overstrike"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"multipl",
+				"multiplier"
+			],
+			[
+				"a",
+				"angularjs"
+			],
+			[
+				"de",
+				"deleteUser"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"show",
+				"showtagged"
+			],
+			[
+				"pos",
+				"postCount"
+			],
+			[
+				"po",
+				"Postctrl"
+			],
+			[
+				"Pos",
+				"PostService"
+			],
+			[
+				"postCo",
+				"PostCollection"
+			],
+			[
+				"post",
+				"postCount"
+			],
+			[
+				"p",
+				"proto	Prototype"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"bs3-tex",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"border",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"last_filter": "set html",
+		"selected_items":
+		[
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"cre",
+				"Create Xiki Buffer"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"le",
+				"Set Syntax: Less"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: snippet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax:java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set an",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"snippen",
+				"Snippet: bs3-list-group-linked"
+			],
+			[
+				"CRE",
+				"Create Xiki Buffer"
+			],
+			[
+				"xif",
+				"Create Xiki Buffer"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"them",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set Syntax:htm",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"font",
+				"Set Syntax: Font"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"prefi",
+				"AngularJS: Toggle - Enable data- Prefix"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"termi",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git  add .",
+				"Git: Add..."
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Snippet: bs3-pagination-large"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"open_file index.html",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/ScoreBoardApp/api.js",
+		"/F/ScoreBoardApp/server.js",
+		"/F/OMS/OMS",
+		"/F/ScoreBoardApp/api/Championship.js",
+		"/F/ScoreBoardApp/schema 1.0",
+		"/F/ScoreBoardApp/public/partials/JoinUs.html",
+		"/F/ScoreBoardApp/public/index.html",
+		"/F/ScoreBoardApp/public/js/app.js",
+		"/F/ScoreBoardApp/public/js/router.js",
+		"/F/ScoreBoardApp/public/partials/TeamEntry.html",
+		"/F/ScoreBoardApp/public/partials/home.html",
+		"/F/ScoreBoardApp/ScoreBoardApp",
+		"/D/Kali Linux Howto's",
+		"/F/ScoreBoardApp/public/js/services/join.js",
+		"/C/Users/yashdeeph709/Desktop/mob",
+		"/D/capture/-01.kismet.netxml",
+		"/D/capture/-01.cap",
+		"/C/Users/yashdeeph709/burningflame/www/index.html",
+		"/C/Users/yashdeeph709/Desktop/New Text Document.txt",
+		"/F/crackstation.txt",
+		"/F/ScoreBoardApp/public/js/services/championship.js",
+		"/F/ScoreBoardApp/public/partials/PlayerEntry.html",
+		"/F/abc.txt",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/app.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/controllers/reservations.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/controllers/flights.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/controllers/destinations.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/controllers/app.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/services.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/final/public/js/controllers/airport.js",
+		"/F/ScoreBoardApp/public/partials/navigation.html",
+		"/C/Users/yashdeeph709/scripts/local.bat",
+		"/F/ScoreBoardApp/public/partials/404.html",
+		"/F/ScoreBoardApp/public/partials/Dashboard.html",
+		"/F/ScoreBoardApp/public/partials/MatchStart.html",
+		"/F/ScoreBoardApp/public/partials/credit.html",
+		"/F/ScoreBoardApp/public/partials/createCship.html",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/start/public/js/controllers/airport.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/start/public/js/app.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/start/public/js/controllers/app.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/start/public/js/controllers/destinations.js",
+		"/D/Extras1.0/Paid-Lynda.com -Up and Running with AngularJS/Ex_Files_UaR_AngularJS/Ex_Files_UaR_AngularJS/Exercise Files/chap_05/01/start/public/js/controllers/flights.js",
+		"/C/Users/yashdeeph709/Desktop/pincode tv.txt",
+		"/F/OMS/partials/order/createOrder.html",
+		"/C/Users/yashdeeph709/Desktop/vee.txt",
+		"/F/OMS/css/style.css",
+		"/F/OMS/js/app.js",
+		"/F/OMS/js/product/Product.js",
+		"/C/Program Files (x86)/Git/doc/git/html/git-reset.html",
+		"/F/alltotal/public/js/app.js",
+		"/F/OMS/js/lib/bootstrap.js",
+		"/C/Program Files (x86)/airtel/RunInfo.ini",
+		"/F/ScoreBoardApp/public/js/modules/createCship.js",
+		"/F/ScoreBoardApp/public/js/modules/createCship.min.js",
+		"/C/Users/yashdeeph709/AppData/Roaming/Sublime Text 3/Packages/User/snippets/express-get.sublime-snippet",
+		"/C/Users/yashdeeph709/Desktop/Recharge Diary.txt",
+		"/D/Bitly Passward.txt",
+		"/F/IAS/public/index0.html",
+		"/C/Users/yashdeeph709/Desktop/email.txt",
+		"/F/IAS/public/js/app.js",
+		"/F/IAS/server.js",
+		"/F/IAS/public/index.html",
+		"/F/IAS/public/partials/main.html",
+		"/F/IAS/public/index1.html",
+		"/F/contactsapp/public/main.html",
+		"/F/IAS/public/css/style.css",
+		"/F/IAS/public/partials/tips.html",
+		"/F/IAS/public/partials/email.html",
+		"/F/IAS/public/partials/mobile.html",
+		"/F/IAS/public/partials/scams.html",
+		"/F/IAS/public/partials/Atm.html",
+		"/F/IAS/public/partials/banking.html",
+		"/F/IAS/public/partials/shopping.html",
+		"/F/IAS/public/partials/virus.html",
+		"/F/IAS/public/partials/identity.html",
+		"/F/IAS/public/partials/securepc.html",
+		"/F/IAS/public/partials/password.html",
+		"/F/IAS/public/partials/cybercrime.html",
+		"/F/OMS/css/nav.css",
+		"/F/OMS/index.html",
+		"/C/Program Files (x86)/ImageWriter/README.txt",
+		"/C/Users/yashdeeph709/Desktop/etravelsmart",
+		"/C/Users/yashdeeph709/AppData/1315",
+		"/C/Recovery.txt",
+		"/G/win32-loader.ini",
+		"/F/IAS/.bowerrc",
+		"/F/IAS/public/lib/angular/angular.min.js.map",
+		"/F/IAS/Gruntfile.js",
+		"/F/IAS/package.json",
+		"/F/IAS/node_modules/grunt-contrib-uglify/package.json",
+		"/F/ScoreBoardApp/Gruntfile.js",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/Gruntfile.js",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/dist/application.js",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/distapplication.js",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/distapplication.js.map",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/index.html",
+		"/F/ScoreBoardApp/js/build.js",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/js/app.js",
+		"/C/Users/yashdeeph709/Desktop/ZEN5H-24LZK-TNYET-2EGKJ-MMCE4",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/css/style.css",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/bottomgrid.html",
+		"/C/Users/yashdeeph709/Desktop/MaterialTest/bottomlist.html",
+		"/F/mongodbtonode/server.js",
+		"/F/Node+Mongo/server.js",
+		"/F/boodoc/ScoreBoardApp",
+		"/C/Users/yashdeeph709/scripts/apps.bat",
+		"/F/OMS/server.js",
+		"/F/OMS/js/order/Order.js",
+		"/F/OMS/partials/order/orders.html",
+		"/F/ScoreBoardApp/package.json",
+		"/F/OMS/partials/order/orderdetail.html",
+		"/F/OMS/Procfile",
+		"/F/OMS/package.json",
+		"/F/boodoc/mob.bat",
+		"/F/ScoreBoardApp/public/partials/Credits.html",
+		"/F/ScoreBoardApp/public/partials/Championship.html",
+		"/F/ScoreBoardApp/public/partials/Main.html",
+		"/F/ScoreBoardApp/public/js/modules/AngularUi/UImodule.js",
+		"/F/ScoreBoardApp/public/css/style.css",
+		"/C/Users/yashdeeph709/AppData/Roaming/Sublime Text 3/Packages/User/snippets/placeholder.sublime-snippet",
+		"/F/ScoreBoardApp/public/partials/Navigation.html",
+		"/C/Users/yashdeeph709/Desktop/Ex_Files_CSS_LESS_SASS/server.js",
+		"/C/Users/yashdeeph709/Desktop/Ex_Files_CSS_LESS_SASS/Ex_Files_CSS_LESS_SASS/Exercise Files/ExampleSnippets.txt",
+		"/C/Users/yashdeeph709/Desktop/Ex_Files_CSS_LESS_SASS/Ex_Files_CSS_LESS_SASS/Exercise Files/Ch1/styles.less",
+		"/C/Users/yashdeeph709/Desktop/Ex_Files_CSS_LESS_SASS/Ex_Files_CSS_LESS_SASS/Exercise Files/Ch1/FirstLessExample.html",
+		"/C/Users/yashdeeph709/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
+		"/C/Users/yashdeeph709/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/C/Users/yashdeeph709/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ng-model=\"password\"",
+			"ng-model=\"\"",
+			"model",
+			"href",
+			"{'url':",
+			"state{",
+			"state",
+			"templateUrl",
+			"{",
+			"(",
+			"/",
+			"when",
+			"route",
+			"</li>",
+			"etc",
+			"id=\"\"",
+			"class=\"form-control",
+			"</td>",
+			"<td>",
+			"type=\"text\"",
+			"ordered",
+			"<input",
+			"config",
+			"min",
+			"#/",
+			"=\"#/\">",
+			"#/",
+			"                <div class=\"carousel-caption\">\n",
+			"#/",
+			"color",
+			"\\",
+			"scoreboard",
+			"//  	",
+			"</dd>",
+			"</dt><dd>",
+			"<dt>",
+			"view source\n",
+			"Request Method:GET\n",
+			"Request URL:https://stormy-fortress-7774.herokuapp.com/partials/TeamEntry.html\n",
+			"Remote Address:107.21.114.209:443\n",
+			"Request Method:GET\nStatus Code:404 Not Found\nResponse Headers\nview source\nConnection:keep-alive\nContent-Length:39\nContent-Type:text/html; charset=utf-8\nDate:Thu, 19 Mar 2015 17:41:45 GMT\nServer:Cowboy\nVia:1.1 vegur\nX-Content-Type-Options:nosniff\nRequest Headers\nview source\nAccept:application/json, text/plain, */*\nAccept-Encoding:gzip, deflate, sdch\nAccept-Language:en-US,en;q=0.8,hi;q=0.6\nConnection:keep-alive\nDNT:1\nHost:stormy-fortress-7774.herokuapp.com\nReferer:https://stormy-fortress-7774.herokuapp.com/\nUser-Agent:Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2337.2 Safari/537.36",
+			"id=\"\"",
+			"id",
+			"for=\"\"",
+			"#",
+			"('#/",
+			"#",
+			"\"/",
+			"/",
+			"pname",
+			"\"pid\"",
+			"\"pname\"",
+			"<td>Machine</td>\n",
+			"<td><input type=\"text\" placeholder=\"quantity\"></td>",
+			"legend",
+			"form-control",
+			"info",
+			"o",
+			"</span>",
+			"<span class=\"",
+			"col",
+			"<input type=\"text\">\n",
+			"cus",
+			"custnam\"e\"",
+			"status:processing",
+			"#",
+			"<span>x</span>",
+			"><",
+			"balls",
+			"padding",
+			"col-xs-",
+			"input-sm",
+			"input",
+			"div",
+			"Order",
+			"order",
+			"Order",
+			"order",
+			"Order",
+			"font",
+			"{",
+			"class",
+			"font",
+			"module",
+			"font",
+			"panel",
+			"input-",
+			"input",
+			"input[type=\"text\"]",
+			"input",
+			"clear",
+			"li",
+			"ul",
+			"well",
+			"panel",
+			"glare",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+			"md",
+			"metro-tile",
+			"col-md-3",
+			"btn",
+			"col-md-6",
+			"tea",
+			"team8",
+			"</div>",
+			"am",
+			"tea",
+			"t",
+			"team1",
+			"6",
+			"3",
+			"winner",
+			"\"></",
+			"2",
+			"<div class=\"col-md-2\">qualifying1</div>\n		",
+			"asfasdf",
+			"qualifying1",
+			"\">",
+			"jquery",
+			"\n$",
+			"title",
+			"nodemon",
+			"sidebar-",
+			"accordian",
+			"li class=\"list-group-item\">",
+			"public",
+			" class=\"list-group-item\"",
+			"20px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"tr td",
+			"table",
+			"panel",
+			"xs",
+			"tr><td>",
+			"",
+			"30px",
+			"col-xs-offset-3",
+			"col-xs-offset-2",
+			"col-xs-6",
+			"addUser"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "oms.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"sc",
+				"schema 1.0"
+			],
+			[
+				"tea",
+				"public\\partials\\TeamEntry.html"
+			],
+			[
+				"in",
+				"public\\index.html"
+			],
+			[
+				"rou",
+				"public\\js\\router.js"
+			],
+			[
+				"app",
+				"public\\js\\app.js"
+			],
+			[
+				"joi",
+				"public\\partials\\JoinUs.html"
+			],
+			[
+				"rout",
+				"public\\js\\router.js"
+			],
+			[
+				"te",
+				"public\\partials\\TeamEntry.html"
+			],
+			[
+				"pla",
+				"public\\partials\\PlayerEntry.html"
+			],
+			[
+				"ch",
+				"public\\js\\services\\championship.js"
+			],
+			[
+				"ho",
+				"public\\partials\\home.html"
+			],
+			[
+				"route",
+				"public\\js\\router.js"
+			],
+			[
+				"nav",
+				"public\\partials\\navigation.html"
+			],
+			[
+				"n",
+				"public\\partials\\navigation.html"
+			],
+			[
+				"da",
+				"public\\partials\\Dashboard.html"
+			],
+			[
+				"start",
+				"public\\partials\\MatchStart.html"
+			],
+			[
+				"ro",
+				"public\\js\\router.js"
+			],
+			[
+				"cre",
+				"public\\partials\\credit.html"
+			],
+			[
+				"na",
+				"public\\partials\\navigation.html"
+			],
+			[
+				"play",
+				"public\\partials\\PlayerEntry.html"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"a",
+				"public\\js\\app.js"
+			],
+			[
+				"crea",
+				"public\\partials\\createCship.html"
+			],
+			[
+				"cha",
+				"public\\js\\services\\championship.js"
+			],
+			[
+				"i",
+				"public\\index0.html"
+			],
+			[
+				"m",
+				"public\\partials\\main.html"
+			],
+			[
+				"sty",
+				"public\\css\\style.css"
+			],
+			[
+				"tip",
+				"public\\partials\\tips.html"
+			],
+			[
+				"mo",
+				"public\\partials\\mobile.html"
+			],
+			[
+				"em",
+				"public\\partials\\email.html"
+			],
+			[
+				"atm",
+				"public\\partials\\Atm.html"
+			],
+			[
+				"sh",
+				"public\\partials\\shopping.html"
+			],
+			[
+				"ba",
+				"public\\partials\\banking.html"
+			],
+			[
+				"id",
+				"public\\partials\\identity.html"
+			],
+			[
+				"vi",
+				"public\\partials\\virus.html"
+			],
+			[
+				"pass",
+				"public\\partials\\password.html"
+			],
+			[
+				"secu",
+				"public\\partials\\securepc.html"
+			],
+			[
+				"pa",
+				"public\\partials\\password.html"
+			],
+			[
+				"cy",
+				"public\\partials\\cybercrime.html"
+			],
+			[
+				"sho",
+				"public\\partials\\shopping.html"
+			],
+			[
+				"iden",
+				"public\\partials\\identity.html"
+			],
+			[
+				"vir",
+				"public\\partials\\virus.html"
+			],
+			[
+				"",
+				".bowerrc"
+			],
+			[
+				"g",
+				"Gruntfile.js"
+			],
+			[
+				"ap",
+				"public\\js\\app.js"
+			],
+			[
+				"c",
+				"public\\js\\modules\\createCship.js"
+			],
+			[
+				"create",
+				"public\\partials\\createCship.html"
+			],
+			[
+				"order",
+				"partials\\order\\orderdetail.html"
+			],
+			[
+				"or",
+				"js\\order\\Order.js"
+			],
+			[
+				"ore",
+				"partials\\order\\orderdetail.html"
+			],
+			[
+				"r",
+				"public\\js\\router.js"
+			],
+			[
+				"ui",
+				"public\\js\\modules\\AngularUi\\UImodule.js"
+			],
+			[
+				"s",
+				"server.js"
+			],
+			[
+				"ex",
+				"ExampleSnippets.txt"
+			],
+			[
+				"fir",
+				"Ch1\\FirstLessExample.html"
+			],
+			[
+				"creat",
+				"partials\\order\\createOrder.html"
+			],
+			[
+				"pro",
+				"js\\services\\productService.js"
+			],
+			[
+				"ord",
+				"js\\order\\Order.js"
+			],
+			[
+				"boot",
+				"css\\bootstrap.css"
+			],
+			[
+				"orde",
+				"js\\order\\Order.js"
+			],
+			[
+				"cham",
+				"public\\partials\\Championship.html"
+			],
+			[
+				"champ",
+				"public\\partials\\championship.html"
+			],
+			[
+				"boo",
+				"css\\bootstrap.min.css"
+			],
+			[
+				"styl",
+				"css\\style.css"
+			],
+			[
+				"b",
+				"public\\css\\bootstrap.css"
+			],
+			[
+				"f",
+				"public\\src\\factories.js"
+			],
+			[
+				"api",
+				"api.js"
+			],
+			[
+				"bot",
+				"css\\bootstrap-theme.min.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"module",
+				"module"
+			],
+			[
+				"$loc",
+				"$LocationProvider"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

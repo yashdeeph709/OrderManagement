@@ -1,16 +1,11 @@
-			<nav class="navbar navbar-default navbar-static-top" role="navigation">
-				<span class="navbar-brand" href="#">List of Order</span>
-				<span class="navbar-brand">
-				<input type="search" placeholder="search orders" class="form-control"/>
-				</span>
-				<ul class="nav navbar-nav pull-right">
-					<li><a href="#/createOrder">
-					<button class="btn btn-primary">Create Order</button>
+			<div class="col-md-12 panel panel-success">
+			<div class="panel-heading">
+			List of Order
+					<a href="#/createOrder">
+					<button class="btn btn-info pull-right"> <span class="glyphicon glyphicon-plus"></span> Create Order</button>
 					</a>
-					</li>
-				</ul>
-			</nav>
-			<div class="table-responsive" data-ng-controller="orderlist">
+			</div>
+			<div class="panel-body table-responsive" data-ng-controller="orderlist">
 				<table class="table table-hover">
 					<thead>
 						<tr>
@@ -23,13 +18,13 @@
 					</thead>
 					<tbody data-link="row" class="rowlink">
 						<tr data-ng-repeat="order in orders">
-							<th><a ng-href="#/orderdetail?orderid=order.orderid">{{order.orderid}}</th>
+							<th><a ng-href="#/orderdetail?orderid=order.orderid">{{order.orderid}}</a></th>
 							<th>{{order.orderid}}</th>
 							<th>{{order.custname}}</th>
 							<th>{{order.date}}</th>
 							<th>{{order.status}}</th>
 						</tr>
-
 					</tbody>
 				</table>
+			</div>
 			</div>
